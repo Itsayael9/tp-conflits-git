@@ -1,1 +1,1 @@
-Ceci est le texte initial du README
+Texte modifié dans branche1
