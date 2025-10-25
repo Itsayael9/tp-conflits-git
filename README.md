@@ -1,1 +1,1 @@
-Texte modifié dans branche1
+Texte final après résolution du conflit
